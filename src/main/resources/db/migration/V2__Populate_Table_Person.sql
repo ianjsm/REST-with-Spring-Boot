@@ -1,0 +1,1 @@
+INSERT INTO `person` VALUES (1,'Fortaleza','Ian','Male','Soares'),(3,'Palmeiras','Endrick','Male','Felipe');
